@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/rizaldo-setiawan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-left: 40px" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 0px 0px 5px 25px;" />
 </a>
 <a href="https://instagram.com/rzldo__" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
