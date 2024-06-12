@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizaldo Setiawan</h1>
 <h3 align="center">Junior Mobile Developer</h3>
 
-- 🌱 I’m currently learning **Bangkit academy as a Mobile Developer**
+- 🌱 I’m currently Work at **Diskominsa Aceh Jaya as a Mobile Developer**
 
 - 💬 Ask me about **Flutter, Kotlin, NodeJs**
 
